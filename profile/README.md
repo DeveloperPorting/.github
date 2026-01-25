@@ -2,7 +2,7 @@
 
 <div align="center" style="font-weight: bold">
 
-# Developer Porting
+# Funkin' Network
 A team of 3 people who only commit code atrocities
 
 Current People:
