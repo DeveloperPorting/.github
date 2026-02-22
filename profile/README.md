@@ -11,4 +11,4 @@ Current People:
 
 • [FNF BR](https://youtube.com/@fnf-br)
 
-• [Idklool](https://youtube.com/@Idklool122)
+• [DxGamer](https://youtube.com/@deechiss)
