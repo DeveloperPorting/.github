@@ -11,4 +11,8 @@ Current People:
 
 • [FNF BR](https://youtube.com/@fnf-br)
 
+Special Thanks:
+
 • [Dechis](https://youtube.com/@deechiss)
+
+• [ArkoseLabs](https://youtube.com/@arkoselabsofficial)
