@@ -17,6 +17,4 @@ Special Thanks:
 
 • [ArkoseLabs](https://youtube.com/@arkoselabsofficial)
 
-Our Discord Server Community:
-
-• [Funkin Network Discord](https://discord.gg/5murtfC6vD)
+[![](https://discord.com/api/guilds/1427270980719345764/widget.png?style=banner4)](https://discord.gg/funkin-network-community-1427270980719345764)
