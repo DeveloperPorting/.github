@@ -17,4 +17,5 @@ Special Thanks:
 
 • [ArkoseLabs](https://youtube.com/@arkoselabsofficial)
 
-<img src="https://discord.com/widget?id=1427270980719345764&theme=dark" alt="Discord Banner 4"/>
+Our Discord Server Community:
+• [Funkin Network Discord](https://discord.gg/5murtfC6vD)
