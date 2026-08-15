@@ -3,7 +3,7 @@
 <div align="center" style="font-weight: bold">
 
 # Funkin' Network
-A team of 3 people who only commit code atrocities
+A team of 2 people who only commit code atrocities
 
 Current People:
 
